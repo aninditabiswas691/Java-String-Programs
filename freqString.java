@@ -1,7 +1,7 @@
 
 import java.util.*;
 class freqString {
-
+// This program counts the number of times one string appear inside another.
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Enter a sentence:");
